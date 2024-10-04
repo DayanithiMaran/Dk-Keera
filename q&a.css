@@ -1543,7 +1543,7 @@ width: 50%;
 
     }
     .nowfoot{
-      
+      border:none;
         align-items: flex-start;
     }
     .slideshow{
